@@ -25,7 +25,7 @@ Mohamed Talaye is a technology executive based in Oslo who builds technology org
 - Interview: [Invisible OSS and AI-driven network operations](https://www.telecomtv.com/content/ai/orange-business-and-blue-planet-on-invisible-oss-and-ai-driven-network-operations-55448/), TelecomTV, April 2026
 - Panel: [How Microsoft, PwC and Orange Business turn digital foundations into business innovation](https://www.youtube.com/watch?v=epbj6QasfT4), MWC Barcelona, with PwC and Microsoft, March 2026
 - Roundtable: Can we truly become a TechCo if our OSS still moves like a TelCo?, MWC Barcelona, March 2026
-- Interview: [Ska leverera som en hyper scaler](https://www.linkedin.com/posts/mohamed-talaye_11-mohamed-talaye-orange-ska-leverera-activity-7406723324761755649-hdNZ), Techtidningen, Sweden, December 2025
+- Interview: [Ska leverera som en hyper scaler](https://techtidningen.se/11-mohamed-talaye-orange-ska-leverera-varde-som-en-hyper-scaler/), Techtidningen, Sweden, December 2025
 - Interview: [Moving beyond virtual machines: Rethinking telco infrastructure for the AI and 5G era](https://www.fierce-network.com/cloud/cloud-native-becomes-telcos-new-baseline-after-supplier-upheavals), Fierce Network, July 2025
 - Panel: [The evolving relationship between digitalisation and cloudification](https://www.mobileeurope.co.uk/the-digital-telco-2025-panel-the-evolving-relationship-between-digitalisation-and-cloudification/), The Digital Telco, Mobile Europe, July 2025
 - Panel: AI Sovereignty: Balancing Innovation, Regulation and Global Collaboration, VivaTech, Paris, June 2025
