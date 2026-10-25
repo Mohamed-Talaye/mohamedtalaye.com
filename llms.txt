@@ -1,0 +1,38 @@
+# Mohamed Talaye
+
+> Mohamed Talaye is a technology executive who builds technology organisations and the platforms they run on. Today, he is shaping the technology foundation for Aker BP's AI-native ambition.
+
+Mohamed Talaye is a technology executive based in Oslo who builds technology organisations and the platforms they run on. Today, he is shaping the technology foundation for Aker BP's AI-native ambition. He was previously Chief Technology Officer of Orange Business. He speaks and writes about platform strategy, AI-native operations, invisible OSS and sovereign cloud.
+
+## Pages
+
+- [Profile](https://mohamedtalaye.com/): who I am and what I work on
+- [Speaking](https://mohamedtalaye.com/speaking.html): keynotes, panels and interviews
+- [Writing](https://mohamedtalaye.com/writing/): articles
+- [Bio](https://mohamedtalaye.com/bio.html): official bios, photos and talk descriptions
+
+## Writing
+
+- [Invisible OSS: From Operational Support to AI-Native Network Intelligence](https://mohamedtalaye.com/writing/invisible-oss.html): Invisible OSS does not mean OSS disappears. It means the complexity of operations disappears from the customer experience, because intelligence, automation and control move inside the network.
+- [From CTO to Chief Visionary Officer: How AI May Redefine Technology Leadership](https://mohamedtalaye.com/writing/cto-to-chief-visionary-officer.html): As AI agents take on more of architecture, development and execution, technology leadership may shift from supervising delivery to shaping vision, structured intent and trust. A personal reflection on the AIshore era.
+- [B2B Connectivity in the AI Era: The Future Is Not Just More Bandwidth](https://mohamedtalaye.com/writing/b2b-connectivity-ai-era.html): AI changes the nature of enterprise traffic, not only its volume. The future of B2B connectivity is connectivity plus intelligence, plus control, plus trust, delivered as a platform.
+- [AI and blast radius: change the control system, not the scope](https://mohamedtalaye.com/writing/ai-and-blast-radius.html): A response to Philippe Ensarguet on AI-written code in mission-critical systems. The risk is not AI generating code. The risk is AI generating code without fast, intelligent feedback loops.
+
+## Speaking and media
+
+- Keynote: [When OSS Becomes Invisible: Reimagining OSS for a Post-Ticket, AI-Native Operations Era](https://futurenetworld.net/keynote-presentation-when-oss-becomes-invisible/2026/06/), FutureNet World, London, April 2026
+- Panel: [B2B Connectivity: Who to Connect to Who in the AI Era](https://vimeo.com/1186459138), FutureNet World, London, April 2026
+- Interview: [Invisible OSS and AI-driven network operations](https://www.telecomtv.com/content/ai/orange-business-and-blue-planet-on-invisible-oss-and-ai-driven-network-operations-55448/), TelecomTV, April 2026
+- Panel: [How Microsoft, PwC and Orange Business turn digital foundations into business innovation](https://www.youtube.com/watch?v=epbj6QasfT4), MWC Barcelona, with PwC and Microsoft, March 2026
+- Roundtable: Can we truly become a TechCo if our OSS still moves like a TelCo?, MWC Barcelona, March 2026
+- Interview: [Ska leverera som en hyper scaler](https://www.linkedin.com/posts/mohamed-talaye_11-mohamed-talaye-orange-ska-leverera-activity-7406723324761755649-hdNZ), Techtidningen, Sweden, December 2025
+- Interview: [Moving beyond virtual machines: Rethinking telco infrastructure for the AI and 5G era](https://www.fierce-network.com/cloud/cloud-native-becomes-telcos-new-baseline-after-supplier-upheavals), Fierce Network, July 2025
+- Panel: [The evolving relationship between digitalisation and cloudification](https://www.mobileeurope.co.uk/the-digital-telco-2025-panel-the-evolving-relationship-between-digitalisation-and-cloudification/), The Digital Telco, Mobile Europe, July 2025
+- Panel: AI Sovereignty: Balancing Innovation, Regulation and Global Collaboration, VivaTech, Paris, June 2025
+- Panel: [Opening panel: What is a telco for?](https://www.mobileeurope.co.uk/telco-to-techco-what-is-a-telco-for-and-is-differentiated-connectivity-the-answer/), Telco to TechCo, Mobile Europe, April 2025
+
+## Profiles
+
+- https://www.linkedin.com/in/mohamed-talaye
+- https://github.com/Mohamed-Talaye
+- https://futurenetworld.net/profile/mohamed-talaye/
