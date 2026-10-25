@@ -29,8 +29,8 @@ html {
   background: var(--ink);
 }
 
-/* The page always fills the window: on short pages the dark footer
-   grows to the bottom, so no light strip shows below it. */
+/* The page always fills the window. On a short page the last block of
+   the content stretches, so the footer sits at the bottom of the screen. */
 body {
   margin: 0;
   min-height: 100vh;
@@ -847,8 +847,17 @@ button.btn.gold {
 
 }
 
-footer {
+main {
   flex: 1 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+main > :last-child {
+  flex: 1 0 auto;
+}
+
+footer {
   padding: 64px 0 48px;
 }
 
